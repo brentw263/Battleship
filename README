@@ -1,0 +1,2 @@
+Battleship.py is a one player application.
+The player is given 4 attempts to guess the location of the hidden battleship and the option to play the game as many times as desired.
